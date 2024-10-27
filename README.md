@@ -56,13 +56,3 @@ Um aplicativo de edição de imagens que permite aos usuários aplicar diversos 
 ## Contribuições
 
 Sinta-se à vontade para contribuir com este projeto. Abra um issue ou um pull request se você tiver sugestões ou melhorias!
-
-## Contato
-
-Para dúvidas ou sugestões, entre em contato:
-
-- Nome: Maria Luise Britto
-- E-mail: seu_email@example.com
-```
-
-Sinta-se à vontade para ajustar qualquer parte que você desejar ou adicionar informações específicas sobre seu projeto!
